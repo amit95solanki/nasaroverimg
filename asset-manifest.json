@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nasaroverimg/static/css/main.f262fa0c.css",
+    "main.js": "/nasaroverimg/static/js/main.7dbd13d2.js",
+    "static/media/bootstrap-icons.woff?": "/nasaroverimg/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/nasaroverimg/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/nasaroverimg/index.html",
+    "main.f262fa0c.css.map": "/nasaroverimg/static/css/main.f262fa0c.css.map",
+    "main.7dbd13d2.js.map": "/nasaroverimg/static/js/main.7dbd13d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f262fa0c.css",
+    "static/js/main.7dbd13d2.js"
+  ]
+}
